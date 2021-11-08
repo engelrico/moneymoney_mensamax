@@ -1,6 +1,7 @@
 # moneymoney_mensamax
 
 extension for MoneyMoney Benking App
+
 include MensaMax Canteen Service in your banking overview
 so you have the single point of truth about your finances 
 here especialy for MensaMax - account for catering lunch @ schools
